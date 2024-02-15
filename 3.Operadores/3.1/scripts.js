@@ -8,7 +8,7 @@ alumno = "Beto"     //con el = asignamos valores
 //  +   -   *   /   %
 /**
  * Suma     +
- * Resta    -
+ * Resta    -ed
  * Multiplicacion   *
  * Division     /
  * reciduo      %
