@@ -4,9 +4,14 @@
  */
 //ALMACENO LA FUNCIONES EN UNA VARIABLE 
 //sumar ya no sera una variable comun ahora sera una funcion
+
+/*
 let sumar = function ( a , b , c ) {
     return a + b + c
 }
+
+let resultado = sumar(1, 2, 3)
+console.log(resultado)*/
 
 //-------------------------------------------------------------------//
 //---------------------- OTRA FORMA ---------------------------------//
